@@ -28,6 +28,7 @@ relation
 11: Vertreterin
 12: Aufsichtsrat
 13: KoordinatorIn
+14: ForschungsbeauftragteR
 
 Vertex-Attributes
 
