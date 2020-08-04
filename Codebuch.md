@@ -95,4 +95,12 @@ education (höchster Bildungsabschluss)
 7: Dissertation
 8: Professur
 
+Party
+1: CDU
+2: CSU
+3: FDP
+4: Die Gruenen
+5: SPD
+6: Parteilos
+
 
