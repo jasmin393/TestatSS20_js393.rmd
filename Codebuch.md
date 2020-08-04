@@ -95,7 +95,4 @@ education (höchster Bildungsabschluss)
 7: Dissertation
 8: Professur
 
-admission (Aufnahme in Kommission)
-1: 2018
-2: 2019
-3: 2020
+
