@@ -54,9 +54,8 @@ representation (Funktion innerhalb der Kommission)
 4: Umwelt
 5: Regionen
 6: Wissenschaft
-7: parlamentarische Mitglieder
-8: Vorsitzende
-9: zusätzliches Mitglied
+7: Vorsitzende
+8: zusätzliches Mitglied
 
 position 
 1: Vorsitz
