@@ -95,7 +95,7 @@ education (höchster Bildungsabschluss)
 7: Dissertation
 8: Professur
 
-Party
+party
 1: CDU
 2: CSU
 3: FDP
