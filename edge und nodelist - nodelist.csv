@@ -1,0 +1,72 @@
+ID,Name,Type,Sex,Age,Representation,Position,State,Opinion,Education,Party
+ES,Eric Schweitzer,0,2,3,2,2,3,99,5,99
+AG,Antje Grothus,0,1,3,5,2,10,2,99,6
+HW,Hannelore Wodtke,0,1,99,5,2,4,2,99,1
+CH,Christine Herntier,0,1,4,5,2,4,2,5,6
+MK,Michael Kreuzberg,0,2,4,5,2,10,99,6,1
+REP,Reiner Priggen,0,2,4,5,2,10,2,5,4
+MV,Michael Vassiliadis,0,2,3,3,2,10,2,1,5
+AS,Andreas Scheidt,0,2,3,3,2,10,99,1,5
+SKL,Stefan Koerzell,0,3,3,3,2,7,99,1,4
+MKS,Martin Kaiser,0,2,3,4,2,99,2,99,99
+DIHT,Deutsche Indrustrie- und Handelskammertag,1,99,99,99,99,99,99,99,99
+EA,Entsorgungskonzerns Alba,1,99,99,99,99,99,99,99,99
+BfB,Buirer für Buir,1,99,99,99,99,99,99,99,99
+BBiR,Braunkohle-Betroffenen im Rheinland ,1,99,99,99,99,99,99,99,99
+GZiW,Gruene Zukunft Welzow,1,99,99,99,99,99,99,99,99
+LEE NRW,Landesverbandes Erneuerbare Energien Nordrhein-Westfalen,1,99,99,99,99,99,99,99,99
+IG BCE,"Industriegewerkschaft Bergbau, Chemie, Energie",1,99,99,99,99,99,99,99,99
+V,Verdi,1,99,99,99,99,99,99,99,99
+DGB,Vorstand beim Deutschen Gewerkschaftsbund,1,99,99,99,99,99,99,99,99
+GP,Greenpreace,1,99,99,99,99,99,99,99,99
+Eon,Eon,1,99,99,99,99,99,99,99,99
+HUW,Hubert Weiger,0,2,5,4,2,2,2,7,6
+KN,Kai Niebert,0,2,1,4,2,99,2,8,6
+JA,Jutta Allmendinger,0,1,4,6,2,3,99,8,6
+FM,Felix Matthes,0,2,3,6,2,1,2,5,6
+HJS,Hans Joachim Schellnhuber,0,2,5,6,2,4,2,8,6
+AN,Annekathrin Niebuhr,0,1,3,6,2,15,2,8,6
+RW,Ralf Wehrspohn,0,2,2,6,2,14,99,8,6
+AL,Andreas Laemmel,0,2,3,1,3,13,99,5,1
+ANL,Andreas Lenz,0,2,1,1,3,2,99,5,2
+MM,Matthias Miersch,0,2,2,1,3,9,2,7,5
+BUND,Bund fuer Naturschutz und Umwelt Deutschland,1,99,99,99,99,99,99,99,99
+RNE,Rat fuer nachhaltige Entwicklung,1,99,99,99,99,99,99,99,99
+DNR,Deutscher Naturschutzring,1,99,99,99,99,99,99,99,99
+NFD,Naturfreunde Deutschland,1,99,99,99,99,99,99,99,99
+WZB,Wissenschaftszentrum Berlin fuer Sozialforschung,1,99,99,99,99,99,99,99,99
+OEI,Oeko-Institut e.V.,1,99,99,99,99,99,99,99,99
+PIK,Potsdam Institut fuer Klimafolgenforschung,1,99,99,99,99,99,99,99,99
+SRC,Stockholm Resilience Centre,1,99,99,99,99,99,99,99,99
+WBGU,Wissenschaftlicher Beirat der Bundesregierung fuer Globale Umweltveränderungen,1,99,99,99,99,99,99,99,99
+EAUK,Empirische Arbeitsmarktforschung Uni Kiel,1,99,99,99,99,99,99,99,99
+FIM,Frauenhofer-Institut fuer Mikrostruktur von Werkstoffen und Systemen,1,99,99,99,99,99,99,99,99
+AWE,Ausschuss fuer Wirtschaft und Energie,1,99,99,99,99,99,99,99,99
+MP,Matthias Platzeck,0,2,4,8,1,4,1,5,5
+RP,Ronald Pofalla,0,2,4,8,1,10,2,6,1
+BP,Barbara Praetorius,0,1,3,8,1,3,2,7,6
+ST,Stanislaw Tillich,0,2,4,8,1,13,1,5,1
+GH,Gerda Hasselfeldt,0,1,5,9,2,99,2,5,2
+SK,Steffen Kampeter,0,2,3,2,2,10,2,5,1
+STK,Stefan Kapferer,0,2,3,2,2,99,2,5,3
+DK,Dieter Kempf,0,2,4,2,2,99,1,5,6
+CN,Claudia Nemat,0,1,3,2,2,99,99,5,6
+KR,Katherina Reiche,0,1,2,2,2,4,2,5,1
+GR,Gunda Roestel,0,1,3,2,2,13,2,5,6
+DB,Deutsche Bahn,1,99,99,99,99,99,99,99,99
+HTW,Hochschule fuer Technik und Wirtschaft Berlin,1,99,99,99,99,99,99,99,99
+DRK,Deutsches Rotes Kreuz,1,99,99,99,99,99,99,99,99
+TAE,Thinktanks Agora Energiewende,1,99,99,99,99,99,99,99,99
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbaende,1,99,99,99,99,99,99,99,99
+BDEW,Bundesverband der Energie- und Wasserwirtschaft,1,99,99,99,99,99,99,99,99
+BDI,Bundesverband Deutscher Industrie,1,99,99,99,99,99,99,99,99
+VKU,Verband Kommunaler Unternehmen,1,99,99,99,99,99,99,99,99
+SED,Stadtentwaesserung Dresden GmbH,1,99,99,99,99,99,99,99,99
+CDU,Christlich Demokratische Union,1,99,99,99,99,99,99,99,99
+CSU,Christlich-Soziale Union,1,99,99,99,99,99,99,99,99
+FDP,Freie Demokratische Partei,1,99,99,99,99,99,99,99,99
+BDG,Buendnis90/Die Gruenen,1,99,99,99,99,99,99,99,99
+SPD,Sozialdemokratische Partei Deutschland,1,99,99,99,99,99,99,99,99
+TK,Telekom,1,99,99,99,99,99,99,99,99
+ENBW,Energie Baden-Wuerttemberg,1,99,99,99,99,99,99,99,99
+KK,Kohlekommission,1,99,99,99,99,99,99,99,99
